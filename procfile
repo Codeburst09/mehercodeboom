@@ -1,2 +1,2 @@
-web: gunicorn MAINONE.wsgi --log-file -
+web: gunicorn Mainone.wsgi --log-file -
 
