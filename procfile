@@ -1,1 +1,1 @@
-web: gunicorn safteynets.wsgi --log-file -
+web: gunicorn safteynets.wsgi
