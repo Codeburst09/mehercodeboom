@@ -1,1 +1,1 @@
-web: gunicorn safteynets.wsgi
+web: gunicorn safteynets:app
