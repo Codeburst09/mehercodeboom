@@ -1,0 +1,52 @@
+
+table,td,th {
+    border: 2px solid;
+
+}
+
+.alter {
+
+    background-color: orange;
+    font-size: larger;
+    background-size: 10px;
+}
+
+#Logo {
+
+
+    color: white;
+    
+    
+}
+#Home {
+
+
+    color: white;
+}
+
+#para {
+
+    text-emphasis-color: green;
+}
+#paragraph {
+
+    color: blue;
+}
+#Aboutus{
+
+    color: white;
+}
+#Services{
+
+    color: white;
+}
+#Contact {
+
+    color: white;
+
+
+}
+#Users {
+
+    color: white;
+}
